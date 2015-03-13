@@ -1,0 +1,1 @@
+Projeto de uma aplicação Gráfica que manipula Superfícies de Bézier.
